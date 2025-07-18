@@ -39,6 +39,8 @@ This will create a `components/` folder (if it doesn't exist) and generate folde
 
 - `components/myComponent/MyComponent.tsx`
 - `components/myComponent/MyComponent.types.ts`
+- `components/myComponent/AnotherComponent.tsx`
+- `components/myComponent/AnotherComponent.types.ts`
 
 ---
 
